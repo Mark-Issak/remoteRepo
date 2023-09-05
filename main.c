@@ -3,7 +3,7 @@
 
 int main ()
 {
-	printmyname();
+	printID();
 
 	return 0;
 }
