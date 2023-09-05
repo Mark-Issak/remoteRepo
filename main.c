@@ -3,7 +3,6 @@
 
 int main ()
 {
-	printID();
-
+	
 	return 0;
 }
