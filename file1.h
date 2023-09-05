@@ -1,0 +1,1 @@
+void printmyname (void);
